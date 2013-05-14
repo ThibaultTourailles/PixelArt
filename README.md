@@ -3,6 +3,6 @@ PixelArt
 
 Mob's final project
 
-Developper :
+Developer :
 
   * Thibault Tourailles
